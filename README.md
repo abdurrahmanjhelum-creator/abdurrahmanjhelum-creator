@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Abdurrahman 👋
 
-<!--
-**abdurrahmanjhelum-creator/abdurrahmanjhelum-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 About Me
+- 🚀 **Full-Stack Mobile Developer** specializing in **Flutter & Dart**.
+- 🌐 Building backend REST APIs using **Node.js, Express, and MongoDB**.
+- 🎓 Computer Science Student at **PMAS Arid Agriculture University**.
+- 💡 Passionate about clean UI/UX and full-stack integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Mobile Development:** Flutter, Dart
+- **Backend & Database:** Node.js, Express.js, MongoDB, SQL, Firebase
+- **Languages:** C++, TypeScript, Dart
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+![Abdurrahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrahmanjhelum-creator&show_icons=true&theme=radial)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanjhelum-creator&layout=compact&theme=radial)
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com)
